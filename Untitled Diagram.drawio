@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.8.0">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
-    <mxGraphModel dx="880" dy="506" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="926" dy="533" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,7 +8,7 @@
           <mxGeometry x="40" y="80" width="100" height="390" as="geometry" />
         </mxCell>
         <mxCell id="aM9ryv3xv72pqoxQDRHE-2" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#00FF00;fontColor=#ffffff;strokeColor=#2D7600;" parent="aM9ryv3xv72pqoxQDRHE-1" vertex="1">
-          <mxGeometry x="45" y="70" width="10" height="250" as="geometry" />
+          <mxGeometry x="45" y="70" width="10" height="270" as="geometry" />
         </mxCell>
         <mxCell id="aM9ryv3xv72pqoxQDRHE-5" value="OmniSpace" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
           <mxGeometry x="290" y="80" width="100" height="390" as="geometry" />
@@ -40,9 +40,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="L9LZ-k_6zLOk1CvhENu7-1" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="75" y="30" width="30" height="60" as="geometry" />
+          <mxGeometry x="75" y="20" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="L9LZ-k_6zLOk1CvhENu7-4" value="OmniSpace" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+        <mxCell id="L9LZ-k_6zLOk1CvhENu7-4" value="Crypto API" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
           <mxGeometry x="556" y="80" width="100" height="390" as="geometry" />
         </mxCell>
         <mxCell id="L9LZ-k_6zLOk1CvhENu7-5" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#00FF00;" vertex="1" parent="L9LZ-k_6zLOk1CvhENu7-4">
@@ -57,7 +57,7 @@
             <mxPoint x="335" y="290" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="L9LZ-k_6zLOk1CvhENu7-9" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;strokeColor=#000000;exitX=0.7;exitY=0.678;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="L9LZ-k_6zLOk1CvhENu7-5">
+        <mxCell id="L9LZ-k_6zLOk1CvhENu7-9" value="Return Cryptodata" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;strokeColor=#FFFFFF;exitX=0.7;exitY=0.678;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="L9LZ-k_6zLOk1CvhENu7-5">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="344" y="370" as="targetPoint" />
             <Array as="points" />
@@ -73,10 +73,10 @@
             <mxPoint x="324" y="390" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="L9LZ-k_6zLOk1CvhENu7-16" value="Enter Specific Crypto" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="L9LZ-k_6zLOk1CvhENu7-16" value="Enter Specific Crypto" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=none;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="140" y="268" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="L9LZ-k_6zLOk1CvhENu7-17" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;strokeColor=#FFFFFF;" edge="1" parent="1">
+        <mxCell id="L9LZ-k_6zLOk1CvhENu7-17" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;strokeColor=#FFFFFF;fillColor=#000000;" edge="1" parent="1" target="L9LZ-k_6zLOk1CvhENu7-4">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="580" y="340" as="targetPoint" />
             <Array as="points">
@@ -85,8 +85,17 @@
             <mxPoint x="580" y="340" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="L9LZ-k_6zLOk1CvhENu7-18" value="Request a Real-time data for Specific Crypto" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="L9LZ-k_6zLOk1CvhENu7-18" value="Request a Real-time data for Specific Crypto" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="279" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="L9LZ-k_6zLOk1CvhENu7-19" value="" style="shape=mxgraph.sysml.x;" vertex="1" parent="1">
+          <mxGeometry x="75" y="451" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="L9LZ-k_6zLOk1CvhENu7-20" value="" style="shape=mxgraph.sysml.x;" vertex="1" parent="1">
+          <mxGeometry x="325" y="450" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="L9LZ-k_6zLOk1CvhENu7-21" value="" style="shape=mxgraph.sysml.x;" vertex="1" parent="1">
+          <mxGeometry x="591" y="450" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
